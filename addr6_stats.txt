@@ -1,0 +1,24 @@
+
+** IPv6 General Address Analysis **
+
+Total IPv6 addresses: 10000
+Unicast:   10000 (100.00%)		Multicast:       0 (0.00%)
+Unspec.:       0 (0.00%)
+
+** IPv6 Unicast Addresses **
+
+Loopback:           0 (0.00%)		IPv4-mapped:        0 (0.00%)
+IPv4-compat.:       0 (0.00%)		Link-local:         0 (0.00%)
+Site-local:         0 (0.00%)		Unique-local:       0 (0.00%)
+6to4:               0 (0.00%)		Teredo:             0 (0.00%)
+Global:         10000 (100.00%)
+
+** IPv6 Interface IDs **
+
+Total IIDs analyzed: 10000
+IEEE-based:    6155 (61.55%)		Low-byte:           1675 (16.75%)
+Embed-IPv4:      15 (0.15%)		Embed-IPv4 (64):      59 (0.59%)
+Embed-port:      40 (0.40%)		Embed-port (r):        0 (0.00%)
+ISATAP:           0 (0.00%)		Byte-pattern:         18 (0.18%)
+Randomized:    2038 (20.38%)
+

@@ -1,0 +1,14 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Large raw dataset: download separately before re-running step 1
+responsive-addresses.txt.xz
